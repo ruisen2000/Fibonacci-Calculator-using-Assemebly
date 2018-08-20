@@ -1,12 +1,7 @@
 ;@============================================================================
 ;@
-;@ Student Name 1: Greyson Wang
-;@ Student 1 #: 301249759
-;@ Student 1 greysonw@sfu.ca
-;@
-;@ Student Name 2: Ricardo Dupouy
-;@ Student 2 #: 301259470
-;@ Student 2 rdupouy@sfu.ca
+;@ Author: Greyson Wang
+;@ Author: Ricardo Dupouy
 ;@
 ;@ Helpers: lab TA's
 ;@
@@ -288,7 +283,7 @@ expand_addition:
 
  .data
 of:    .space 4;   
-var_n: .space 4;@ 1 word/32 bits – what Fib number ended up in var_b
+var_n: .space 4;@ 1 word/32 bits ï¿½ what Fib number ended up in var_b
 var_a: .space 512;@ 128 words/4096 bits
 var_b: .space 512;@ 128 words/4096 bits 
 num_words: .space 4
